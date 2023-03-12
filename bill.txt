@@ -1,0 +1,3 @@
+CUSTOMER: Marcus Cristi
+PRODUCT: computer
+TOTAL VALUE TO PAY: 1750
